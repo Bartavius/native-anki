@@ -33,3 +33,5 @@ export default function TabLayout() {
     </Tabs>
   );
 }
+
+// TODO: need to implement auth with sessions and protected routes
